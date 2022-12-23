@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: rgb(227,148,167);
+background: linear-gradient(90deg, rgba(227,148,167,1) 0%, rgba(230,216,203,1) 100%);
+  color: #2f3559;
+  font-family: 'Handlee', cursive;
+
+}
+
+#root {
+  margin: 0 24px;
+  position: relative;
+  min-height: 100vh;
+}
